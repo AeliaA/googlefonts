@@ -1,0 +1,82 @@
+h1 {
+	font-weight: 200;
+	font-family: 'Cardo', serif;
+	font-size: 25px;
+	line-height: 1%;
+	margin: 20px;
+	padding: 20px;
+}
+h3 {
+	font-weight: 200;
+	font-family: 'Cardo', serif;
+	font-size: 25px;
+	line-height: 80%;
+	margin: 30px;
+	padding: 30px;
+}
+p{
+	font-size: 18px;
+	margin: 40px;
+	padding: 40px;
+	margin: 0 auto;
+	margin-right: 50px;
+	line-height: 90%;
+}
+
+/*body{
+	text-align: center;
+	font-size: 26px;
+	font-family: 'Merriweather', serif;
+}
+.script
+{
+	font-weight: 200;
+	font-family: 'Satisfy', cursive;
+}	
+.sansserif{
+	font-weight: 200;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.serif{
+	font-weight: 200;
+	font-family: 'Cardo', serif;
+}
+.display{
+	font-weight: 200;
+	font-family: 'Overlock', cursive;
+}
+
+body{
+	text-align: center;
+	font-size: 26px;
+	font-family: 'Merriweather', serif;
+}
+.light
+{
+	font-weight: 100;
+}	
+.lightitalic{
+	font-weight: 200;
+	font-style: italic;
+}
+.normal{
+	font-weight: 300;
+}
+.normalitaliclight{
+	font-weight: 400;
+	font-style: italic;
+}
+.bold{
+	font-weight: 500;
+}
+.bolditalic{
+	font-weight: 600;
+	font-style: italic;
+}
+.ultrabold{
+	font-weight: 700;
+}
+.ultrabolditalic{
+	font-weight: 800;
+	font-style: italic;
+}*/
